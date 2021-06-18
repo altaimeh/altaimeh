@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Al-Taimee Hassan</h1>
-<h3 align="center">My name is Al-Taimee Hassan, a passionate developer studying Computer Science and I am currently seeking opportunities for me to not only learn new skills, but also gain valuable industry-level experience to contribute to successful delivery of products that will be safe to use and maintain optimal customer satisfaction from end-users and other stakeholders involved.</h3>
+<h1 align="center">Hi There👋</h1>
+<h3 align="center">I am Al-Taimee, a passionate developer studying Computer Science and I am currently seeking opportunities for me to not only learn new skills, but also gain valuable industry-level experience to contribute to successful delivery of products that will be safe to use and maintain optimal customer satisfaction from end-users and other stakeholders involved.</h3>
 
 - 🔭 I’m currently working on [GameHub](https://github.com/altaimeh/gameHub)
 
