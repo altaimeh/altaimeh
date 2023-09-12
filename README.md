@@ -1,13 +1,13 @@
 <h1 align="center">Hi There👋</h1>
 <h3 align="center">I am Al-Taimee, a passionate developer studying Computer Science and I am currently seeking opportunities for me to not only learn new skills, but also gain valuable industry-level experience to contribute to successful delivery of products that will be safe to use and maintain optimal customer satisfaction from end-users and other stakeholders involved.</h3>
 
-- 🔭 I’m currently working on [Warrior Gains](https://github.com/WSU-4110/warrior-gains)
+- 🔭 I’m currently working on [Visualizer of Environmental Toxicants](https://github.com/altaimeh/ToxicantVisualizer-Upgrade)
 
 - 🌱 I’m currently learning **iOS Development, Flutter, C#, Java, NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/altaimeh](https://github.com/altaimeh)
 
-- 💬 Ask me about **C++, Python, HTML/CSS/JavaScript, R**
+- 💬 Ask me about **C++, Python, HTML/CSS/JavaScript, R, React.js, AWS, Postgres, SpringBoot**
 
 - 📫 How to reach me **taimeeh12@gmail.com**
 
