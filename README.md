@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Visualizer of Environmental Toxicants](https://github.com/altaimeh/Visualizer-of-Environmental-Toxicants)
 
-- 🌱 I’m currently learning **iOS Development, Flutter, C#, Java, NodeJs**
+- 🌱 I’m currently learning **TypeScript, JavaScript, Java, NodeJs, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/altaimeh](https://github.com/altaimeh)
 
-- 💬 Ask me about **C++, Python, HTML/CSS/JavaScript, R, React.js, AWS, Postgres, SpringBoot**
+- 💬 Ask me about **TypeScript, JavaScript, Python, React.js, AWS, SQL Developer, Java**
 
 - 📫 How to reach me **taimeeh12@gmail.com**
 
