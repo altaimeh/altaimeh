@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋</h1>
 <h3 align="center">I am Al-Taimee, a passionate full-stack developer and I am currently seeking opportunities for full-stack development to contribute to highly scalable, deployable applications. Please feel free to reach out I would love to connect! </h3>
 
-- 🔭 I’m currently working on [Personal React Projects]([https://github.com/altaimeh/Visualizer-of-Environmental-Toxicants](https://github.com/altaimeh/React-Projects))
+- 🔭 I’m currently working on [Personal React Projects]((https://github.com/altaimeh/React-Projects))
 
 - 🌱 I’m currently learning **TypeScript, JavaScript, Java, NodeJs, Flutter**
 
