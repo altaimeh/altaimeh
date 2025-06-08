@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋</h1>
-<h3 align="center">I am Al-Taimee, a passionate developer studying Computer Science and I am currently seeking opportunities for me to not only learn new skills, but also gain valuable industry-level experience to contribute to successful delivery of products that will be safe to use and maintain optimal customer satisfaction from end-users and other stakeholders involved.</h3>
+<h3 align="center">I am Al-Taimee, a passionate full-stack developer studying Computer Science and I am currently seeking opportunities for full-stack development to contribute to highly scalable, deployable applications. Please feel free to reach out I would love to connect! </h3>
 
 - 🔭 I’m currently working on [Personal React Projects]([https://github.com/altaimeh/Visualizer-of-Environmental-Toxicants](https://github.com/altaimeh/React-Projects))
 
