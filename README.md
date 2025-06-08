@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, JavaScript, Java, NodeJs, Flutter**
 
-- 👨‍💻 All of my projects are available at (https://github.com/altaimeh?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/altaimeh?tab=repositories)
 
 - 💬 Ask me about **TypeScript, JavaScript, Python, React.js, AWS, SQL Developer, Java**
 
